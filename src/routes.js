@@ -9,8 +9,8 @@ import Tasks from "./components/dash/components/tasks/Tasks";
 const AppRoutes = () => (
   <App>
     <Switch>
-      <Route exact path="/" component={Wall} />
-      <Route exact path="/tasks" component={Tasks} />
+      <Route exact path="/lim-2018-01-todo-list-frameworks/" component={Wall} />
+      <Route exact path="/lim-2018-01-todo-list-frameworks/tasks" component={Tasks} />
       <Route component={Page404} />
     </Switch>
   </App>

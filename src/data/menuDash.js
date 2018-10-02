@@ -1,6 +1,6 @@
 export default [
   {
     title: "Wall",
-    url: "/"
+    url: "/lim-2018-01-todo-list-frameworks/"
   }
 ];
