@@ -1,6 +1,6 @@
 {
-  "homepage": "https://vbiaggi10.github.io/lim-2018-01-social-network-frameworks/",
-  "name": "brainnet",
+  "homepage": "https://vbiaggi10.github.io/todolist/",
+  "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
