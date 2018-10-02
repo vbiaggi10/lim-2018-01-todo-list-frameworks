@@ -4,6 +4,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "express": "^4.16.3",
+    "express-force-https": "^1.0.0",
     "gh-pages": "^2.0.0",
     "heroku": "^7.16.1",
     "npm": "^6.4.1",
@@ -11,7 +13,8 @@
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "^1.1.5"
+    "react-scripts": "^1.1.5",
+    "serve-static": "^1.13.2"
   },
   "scripts": {
     "deploy": "yarn build && gh-pages -d build",
