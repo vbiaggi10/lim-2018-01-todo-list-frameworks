@@ -89,7 +89,7 @@ Para comenzar tendrás que hacer un _fork_ y _clonar_ este repositorio.
 
 #### General
 
-* [ ] El `README.md` debe contener un resumen de lo que encontraremos en tu 
+* [x] El `README.md` debe contener un resumen de lo que encontraremos en tu 
 proyecto.
 
 #### Funcionalidades
@@ -107,7 +107,14 @@ proyecto.
 ### Hacker Edition
 
 * [x] Editar la tarea.
-* [ ] Implementar las operaciones de CRUD de la data con Firebase.
+* [x] Implementar las operaciones de CRUD de la data con Firebase.
 
 
+## Heroku
 
+* git init
+* create _name_ -b https://github.com/mars/create-react-app-buildpack.git
+* git add .
+* git commit -m "_name of commit_"
+* git push heroku master
+* heroku open
